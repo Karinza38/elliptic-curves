@@ -1,4 +1,4 @@
-elliptic-curves
+ elliptic-curves
 ===============
 Play with elliptic curves!
 A senior thesis project, Fall 2014 - Spring 2015.
